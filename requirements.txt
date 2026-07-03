@@ -1,0 +1,19 @@
+# --- LLM (Claude only) ---
+anthropic>=0.40.0
+
+# --- Config / env ---
+python-dotenv>=1.0.0
+
+# --- Retrieval: embeddings + vector store + keyword ---
+sentence-transformers>=3.0.0   # BGE model (bge-small-en-v1.5), runs local
+chromadb>=0.5.0                # local, file-based vector DB
+rank-bm25>=0.2.2               # keyword search for hybrid retrieval
+
+# --- Document / OCR pipeline (Phase 5) ---
+pypdf>=4.0.0
+pdf2image>=1.17.0
+Pillow>=10.0.0
+pytesseract>=0.3.10
+
+# --- Frontend (Phase 8) ---
+streamlit>=1.36.0

@@ -1,0 +1,18 @@
+QUEST DIAGNOSTICS
+COMPREHENSIVE METABOLIC PANEL
+
+Patient: John Doe
+DOB: 1968-04-12
+Collected: 2026-06-15
+Accession: 90210-ABX
+
+Test                        Result      Units       Reference Range
+--------------------------------------------------------------------
+Glucose, Fasting            105         mg/dL       70 - 99
+Creatinine                  1.4         mg/dL       0.6 - 1.2
+Total Cholesterol           215         mg/dL       < 200
+HDL Cholesterol             38          mg/dL       > 40
+LDL Cholesterol             142         mg/dL       < 100
+Hemoglobin A1c              6.1         %           4.0 - 5.6
+
+Comments: Please follow up with your provider to discuss results.
